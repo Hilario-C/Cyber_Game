@@ -35,3 +35,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Cyber_Smash/Logs/AssetImportWorker0.log
+Cyber_Smash/Logs/AssetImportWorker1.log
