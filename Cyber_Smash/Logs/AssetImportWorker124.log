@@ -1,0 +1,200 @@
+Using pre-set license
+Built from '2021.2/release' branch; Version is '2021.2.0f1 (4bf1ec4b23c9) revision 4977132'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1288; Version 2009; 64bit' Language: 'en' Physical Memory: 7901 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.2.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker124
+-projectPath
+C:/Users/20jac/Documents/GitHub/Cyber_Game/Cyber_Smash
+-logFile
+Logs/AssetImportWorker124.log
+-srvPort
+57781
+Successfully changed project path to: C:/Users/20jac/Documents/GitHub/Cyber_Game/Cyber_Smash
+C:/Users/20jac/Documents/GitHub/Cyber_Game/Cyber_Smash
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+mdb reader table full -> cleaning up stale readers. Current readers:
+    pid     thread     txnid
+      7116 4a70 -
+      7116 526c -
+     14068 3070 -
+     15640 33b0 -
+     22820 552c -
+      2192 476c -
+      6764 3a9c -
+     14008 2448 -
+     16760 35d0 -
+     23188 5614 -
+     19492 35f8 -
+     14936 1f50 -
+      6632 41b4 -
+     23184 19cc -
+      9328 26e0 -
+      7612 3c88 -
+     20892 5e84 -
+     10520 1300 -
+      7116 4930 -
+     23008 29fc -
+      7488 5a5c -
+     19244 1c58 -
+      6456 2440 -
+     22460 3c78 -
+     13500 3da4 -
+     22748 5a8c -
+     13492 23e8 -
+     22388 1638 -
+     14860 5f80 -
+     14164 620 -
+     19536 286c -
+     19552 5620 9009
+      9880 52dc -
+     23312 2ae0 -
+      6412 49cc -
+     22876 5ecc -
+     22792 2f00 -
+     16444 4490 -
+     22308 5668 -
+     16280 5ad0 -
+     19800 5374 -
+     10544 1b68 -
+     20768 2958 -
+     18248 2dd0 -
+     19568 3888 -
+     22796 5c80 -
+     21388 3f90 9025
+     24496 25d0 -
+      6876 2d38 -
+      2284 2fc4 -
+      7844 4fcc -
+      9276 45bc -
+     11140 1028 -
+      1708 4048 -
+      2272 2494 -
+     15724 828 -
+     21992 4404 -
+     21416 3390 -
+     19756 3ccc -
+       896 3648 -
+     23896 56f0 -
+     24572 5a3c -
+      3668 3b7c -
+      2376 16cc -
+      7544 32a4 -
+      6840 52f0 -
+     17792 2e60 -
+     23040 491c -
+     16288 2a68 -
+     19368 310c -
+      3056 2b98 -
+     16008 5608 -
+      8340 5cd8 -
+     18860 42a8 -
+      9492 3828 -
+     11112 52b8 -
+     17468 2614 -
+      6852 5880 -
+     16540 4284 9073
+     22624 3a7c 9075
+      4884 d98 -
+      7276 3a74 -
+     11972 1a48 -
+      8952 2010 -
+       508 1ae0 -
+      6696 1dd0 -
+      6680 59d0 -
+      6504 39bc 9085
+     18272 26d4 -
+     20576 34cc 9087
+     11496 43a0 -
+     13172 2c64 9089
+     16744 46dc -
+      2432 4630 -
+     16480 3008 -
+     12000 38a0 -
+     14552 575c -
+     18492 55a0 -
+      8868 a28 -
+     23940 41ac -
+     17132 1d50 -
+      1488 43a4 -
+      8628 19f0 9099
+     14824 3990 -
+     22812 5ee0 -
+     24308 47ac -
+     13396 2dec -
+     17940 3958 -
+     20364 2c14 9105
+     17416 508 -
+     16664 3f44 -
+     14612 3f08 -
+     11768 20e8 -
+      8540 4cb4 9111
+     14880 4108 -
+     11532 36a4 -
+      7868 455c -
+     14032 27d0 -
+     17732 3a80 -
+     24348 5a20 -
+     14896 1e48 9119
+     19704 2e4c -
+     19336 46c0 -
+      6256 33d4 -
+     18764 1fb4 -
+     21424 16ec -
+Cleaned out 120 stale readers
+Refreshing native plugins compatible for Editor in 2284.28 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.2.0f1 (4bf1ec4b23c9)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.2.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/20jac/Documents/GitHub/Cyber_Game/Cyber_Smash/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     3950 MB
+    Driver:   26.20.100.8142
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.2.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.2.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.2.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56340
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.2.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.140317 seconds.
+Native extension for WindowsStandalone target not found
