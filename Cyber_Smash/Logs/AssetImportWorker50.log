@@ -9,11 +9,11 @@ C:\Program Files\Unity\Hub\Editor\2021.2.0f1\Editor\Unity.exe
 -batchMode
 -noUpm
 -name
-AssetImportWorker1
+AssetImportWorker50
 -projectPath
 C:/Users/20jac/Documents/GitHub/Cyber_Game/Cyber_Smash
 -logFile
-Logs/AssetImportWorker1.log
+Logs/AssetImportWorker50.log
 -srvPort
 57781
 Successfully changed project path to: C:/Users/20jac/Documents/GitHub/Cyber_Game/Cyber_Smash
@@ -47,9 +47,15 @@ C:/Users/20jac/Documents/GitHub/Cyber_Game/Cyber_Smash
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 1742.81 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 3029.97 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.2.0f1 (4bf1ec4b23c9)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.2.0f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path C:/Users/20jac/Documents/GitHub/Cyber_Game/Cyber_Smash/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     3950 MB
+    Driver:   26.20.100.8142
