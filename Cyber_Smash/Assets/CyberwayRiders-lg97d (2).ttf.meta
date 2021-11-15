@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b8360cd4f020ff44897a52ef00886250
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cyberway Riders
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bb86477165f6dd14c8c8e303e2e324c9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
